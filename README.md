@@ -344,4 +344,3 @@ This project is open source and available for educational and non-profit use.
 
 **Built with ❤️ for mental health awareness and youth support**
 
-*Aligned with UN SDG 3: Ensure healthy lives and promote well-being for all at all ages*
