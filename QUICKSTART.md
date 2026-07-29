@@ -34,7 +34,7 @@ wellness-coach-bot/
 ### ✅ Core Features
 - 📔 **Journal Page** with word counter
 - 🤖 **Sentiment Analysis** (Vader - no API key)
-- 💙 **Mood Detection** (9 categories)
+- 💙 **Mood Detection**
 - 🆘 **Safety Detection** with helplines
 - 📊 **Dashboard** with charts (Recharts)
 - 💡 **Resources** with breathing exercise
